@@ -108,3 +108,7 @@ Strings & Arrays Problems:
 10) Given a matrix MXN, compute a matrix of MX1 where each row is the sum of all numbers in the row in the original matrix. Compute another matrix 1XN,
     sum of all numbers in the column in the original matrix.
 11) Reverse the string.
+
+## Note
+
+Watch tutorials on YouTube.
